@@ -26,17 +26,11 @@ Além do projeto base, este projeto inclui algumas funcionalidades extras para u
   - Habilidades
   - Reprodução (gênero, grupos de ovos e ciclo de ovos)
 
-#### Exemplo de card:
-![Card Pokémon](https://raw.githubusercontent.com/user/repo/main/assets/pokemon-card-example.png)
-
 ---
 
 ### 2. Pesquisa de Pokémons
 - Barra de pesquisa que filtra os Pokémon por nome em tempo real.
 - Permite encontrar rapidamente qualquer Pokémon da lista.
-
-#### Exemplo da pesquisa:
-![Pesquisa Pokémon](https://raw.githubusercontent.com/user/repo/main/assets/pokemon-search-example.png)
 
 ---
 
@@ -57,6 +51,4 @@ Além do projeto base, este projeto inclui algumas funcionalidades extras para u
 4. Use a barra de pesquisa para encontrar Pokémons rapidamente.
 
 ---
-
-## Estrutura do projeto
 
